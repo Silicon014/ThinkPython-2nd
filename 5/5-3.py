@@ -3,6 +3,8 @@ def is_triangle(a, b, c):
         return True
     else:
         return False
+
+
 a = int(input("enter a: "))
 b = int(input("enter b: "))
 c = int(input("enter c: "))
