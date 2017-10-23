@@ -1,6 +1,6 @@
 def recurse(n, s):
     '''
-    
+    输出s + sum [1..n]
     :param n: int, >= 0
     :param s: int
     :return: void
